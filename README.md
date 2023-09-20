@@ -3,13 +3,19 @@
 # Step by Step for Simulator
 - Schematic in Kicad:
 
-![schematic](schematic.png)
+<p align="center">
+  <img src="schematic.png" />
+</p>
 
 - Simulator in LTspice:
 
-![simulator](simulator.png)
+<p align="center">
+  <img src="simulator.png" />
+</p>
 
 - Result after Simulator:
 
-![result](result.png)
+<p align="center">
+  <img src="result.png" />
+</p>
 
