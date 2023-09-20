@@ -1,0 +1,38 @@
+Circuit: * C:\Users\thien\Documents\LTspice\ltspice_DC-OperatingPointAlalysis\DC-OperatingPointAlalysis.asc
+
+Direct Newton iteration for .op point succeeded.
+Semiconductor Device Operating Points:
+                        --- Diodes ---
+Name:    d:u1:21     d:u1:22     d:u1:5      d:u1:6      d:u1:1
+Model:   u1:esd      u1:esd       u1:x1       u1:x2       u1:iq
+Id:     -1.65e-12   -1.65e-12   -8.25e-07   -8.25e-07    3.48e-04
+Vd:     -1.65e+00   -1.65e+00   -1.65e+00   -1.65e+00    3.30e+00
+Req:     1.00e-12    1.00e-12    5.00e-07    5.00e-07    5.00e-04
+CAP:     0.00e+00    0.00e+00    0.00e+00    0.00e+00    0.00e+00
+
+Name:    d:u1:2      d:u1:3
+Model:  u1:20ohm     u1:45ma
+Id:      2.00e-12   -2.00e-12
+Vd:      6.00e-11   -2.00e-11
+Req:     1.00e-01    1.00e-01
+CAP:     0.00e+00    0.00e+00
+
+
+
+Date: Wed Sep 20 15:37:17 2023
+Total elapsed time: 0.037 seconds.
+
+tnom = 27
+temp = 27
+method = trap
+totiter = 4
+traniter = 0
+tranpoints = 0
+accept = 0
+rejected = 0
+matrix size = 10
+fillins = 4
+solver = Normal
+Avg thread counts: 8.0/0.0/8.0/8.0
+Matrix Compiler1: 712 bytes object code size
+Matrix Compiler2: 1008 bytes object code size
